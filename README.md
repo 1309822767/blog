@@ -28,6 +28,7 @@
 - GitHub API 进行数据交互，无需后端服务器
 - 无需本地打包，`git push`直接部署 (使用TravisCI)
 - 在GitHub页面上托管
+-可当图床使用
 ## 演示
 - [https://leachzhou.github.io/blog](https://leachzhou.github.io/blog)
 
