@@ -30,10 +30,10 @@
 - 在GitHub页面上托管
 -可当图床使用
 ## 演示
-- [https://pandorahiro.cn/image](https://pandorahiro.cn/image)
+- [https://pandorahiro.cn/blog](https://pandorahiro.cn/blog)
 
 ## 待办事项
-- 请在GitHub看板上查看 [Todolist](https://github.com/1309822767/image/projects/1)
+- 请在GitHub看板上查看 [Todolist](https://github.com/1309822767/blog/projects/1)
 
 ## 更新记录
 - 更新记录请查看Releases [更新记录](https://github.com/LeachZhou/blog/releases)
